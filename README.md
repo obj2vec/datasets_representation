@@ -9,6 +9,6 @@ Google word2vec
 
 Microsoft GLOVE
 
-EVE
+EVE -- http://mlg.ucd.ie/eve/
 
-iPAvlov
+iPavlov
